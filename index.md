@@ -6,15 +6,18 @@ Natürlich kannst Du aber wie immer bei Jugend hackt Schweiz auch an anderen The
 
 ## Daten
 
-Grundsätzlich wird bei Jugend hackt mit offenen Daten gearbeitet ("Open Data"), welche frei im Netz zur Verfügung gestellt wird.
+Grundsätzlich wird bei Jugend hackt mit [offenen Daten](https://jugendhackt.org/offene-daten/) gearbeitet ("Open Data"), welche frei im Netz zur Verfügung gestellt wird.
 
 ### Datensätze
 
 Passend zum Thema **Echt oder Falsch?** findest du hier einige ausgewählte Datensätze, die wir interessant finden:
 
 * [Abfahrs-/Ankunfsanzeiger für ÖV](https://opentransportdata.swiss/de/dataset/aaa) - Nie mehr zur falschen Zeit am falschen Ort
-* [Ehedatenbank Kanton Zürich 16. und 17. Jahrhundert](https://opendata.swiss/de/dataset/marriage-database-for-the-canton-of-zurich) - Echte Liebe?
 * [Abstimmungsresultate](https://opendata.swiss/de/dataset?keywords_de=abstimmung) - Wer hat gewonnen? Gibt es Anzeichen von Betrug?
+* [Beschwerden beim Presserat](https://presserat.ch/complaints/) - Stimmt das, was in der Zeitung steht?
+* [DNS-Zensur in der Schweiz](https://dnszensur.ch/) - Bin ich auf der falschen (oder echten) Seite?
+* [Ehedatenbank Kanton Zürich 16. und 17. Jahrhundert](https://opendata.swiss/de/dataset/marriage-database-for-the-canton-of-zurich) - Echte Liebe?
+* [OpenFood API](https://www.openfood.ch/de) - Ist im Essen wirklich das drin, was du glaubst?
 
 ### Portale
 
