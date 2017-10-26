@@ -1,0 +1,3 @@
+[submodule "datacentral"]
+	path = datacentral
+	url = https://github.com/centraldedados/datacentral.git
